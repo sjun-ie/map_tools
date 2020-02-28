@@ -7,3 +7,5 @@ Map tileset to use. Can choose from this list of built-in tiles:
 ”Mapbox Bright”, “Mapbox Control Room” (Limited zoom)
 ”Cloudmade” (Must pass API key)
 ”Mapbox” (Must pass API key)
+
+https://python-visualization.github.io/folium/quickstart.html
