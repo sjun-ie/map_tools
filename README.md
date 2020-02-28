@@ -10,3 +10,4 @@ Map tileset to use. Can choose from this list of built-in tiles:
 
 https://python-visualization.github.io/folium/quickstart.html
 https://fontawesome.com/icons?from=io
+https://github.com/lvoogdt/Leaflet.awesome-markers
