@@ -9,3 +9,4 @@ Map tileset to use. Can choose from this list of built-in tiles:
 ”Mapbox” (Must pass API key)
 
 https://python-visualization.github.io/folium/quickstart.html
+https://fontawesome.com/icons?from=io
